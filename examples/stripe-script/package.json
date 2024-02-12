@@ -10,6 +10,6 @@
   "dependencies": {
     "@mui/toolpad": "0.1.49",
     "archiver": "6.0.1",
-    "stripe": "^14.14.0"
+    "stripe": "^14.16.0"
   }
 }
